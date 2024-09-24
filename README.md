@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on web developing, , C# and C++<br>🤝 I’m looking for help with anyone that can help me learn<br>🌱 I’m currently learning database and servers<br>💬 Ask me about my passions <br>😄 Pronouns: He/Him<br>⚡ Fun fact: some robots (called xenobot) can reproduce
+🔭 I’m currently working on web developing, C# and C++<br>🤝 I’m looking for help with anyone that can help me learn<br>🌱 I’m currently learning database and servers<br>💬 Ask me about my passions <br>😄 Pronouns: He/Him<br>⚡ Fun fact: some robots (called xenobot) can reproduce
 
 
 ## 🌐 Socials:
