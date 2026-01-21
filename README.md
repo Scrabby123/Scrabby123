@@ -34,3 +34,6 @@
 [![](https://visitcount.itsvg.in/api?id=Scrabby123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### My Wakatime 2025 wrapped:
+[![](https://wakatime.com/a-look-back-at-2025/bcdb8c70-8691-4bd6-b04a-d8e6514c469f/fbqsmfpacl)
