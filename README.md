@@ -12,7 +12,8 @@
 -->
 # 💫 About Me:
 🔭 I’m currently working on web developing, C# and C++<br>🤝 I’m looking for help with anyone that can help me learn<br>🌱 I’m currently learning database and servers<br>💬 Ask me about my passions <br>😄 Pronouns: He/Him<br>⚡ Fun fact: some robots (called xenobot) can reproduce
-
+## My wakatime stats:
+[![wakatime](https://wakatime.com/badge/user/bcdb8c70-8691-4bd6-b04a-d8e6514c469f.svg)](https://wakatime.com/@bcdb8c70-8691-4bd6-b04a-d8e6514c469f)
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/Scrabby123](https://stackoverflow.com/users/22919998/scrabby123)) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Scrabby123) 
